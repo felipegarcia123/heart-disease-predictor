@@ -1,0 +1,63 @@
+{
+  "feature_order": [
+    "age",
+    "sex",
+    "cp",
+    "trestbps",
+    "chol",
+    "fbs",
+    "restecg",
+    "thalach",
+    "exang",
+    "oldpeak",
+    "slope",
+    "ca",
+    "thal",
+    "smoking",
+    "diabetes",
+    "bmi"
+  ],
+  "categorical_maps": {
+    "cp": {
+      "0": "Typical Angina",
+      "1": "Atypical Angina",
+      "2": "Non-Anginal Pain",
+      "3": "Asymptomatic"
+    },
+    "sex": {
+      "0": "Female",
+      "1": "Male"
+    },
+    "fbs": {
+      "0": "\u2264120 mg/dl",
+      "1": ">120 mg/dl"
+    },
+    "restecg": {
+      "0": "Normal",
+      "1": "ST-T abnormality",
+      "2": "LV hypertrophy"
+    },
+    "exang": {
+      "0": "No",
+      "1": "Yes"
+    },
+    "slope": {
+      "0": "Upsloping",
+      "1": "Flat",
+      "2": "Downsloping"
+    },
+    "thal": {
+      "0": "Normal",
+      "1": "Fixed defect",
+      "2": "Reversible defect"
+    },
+    "smoking": {
+      "0": "No",
+      "1": "Yes"
+    },
+    "diabetes": {
+      "0": "No",
+      "1": "Yes"
+    }
+  }
+}

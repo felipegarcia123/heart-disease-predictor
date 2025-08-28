@@ -1,0 +1,17 @@
+# Ignorar entorno virtual
+venv/
+.env/
+__pycache__/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Cachés de Streamlit
+.streamlit/
+
+# Archivos grandes temporales
+*.csv
+*.xlsx
+# Ignorar checkpoints de Jupyter
+.ipynb_checkpoints/

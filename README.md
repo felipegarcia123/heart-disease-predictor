@@ -5,6 +5,8 @@ El modelo fue entrenado con **Machine Learning** usando un conjunto de datos rea
 
 > ⚠️ **Nota importante:** Esta herramienta es de **apoyo** y **no sustituye** el criterio médico profesional.
 
+---
+
 ## 🖼️ Vista previa
 
 ### 🏠 Formulario de entrada
@@ -47,13 +49,3 @@ pip install -r requirements.txt
 
 # Ejecutar la app
 streamlit run app.py
-
----
-
-## 📬 Contacto
-
-Contáctame o revisa mi trabajo en las siguientes plataformas:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-felipe-garc%C3%ADa-garc%C3%ADa-9a167912a/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/felipegarcia123)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:garciajuanfelipe3@gmail.com)
